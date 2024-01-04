@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Dec-04,2,3,Osama,Completed the timer feature had to make some minor changes so that it does only one thing because it was getting difficult, I plan on to do some final touches and work on the presentation, All this should be done by the presentation date, There are no blockers for me currently
+Dec-04,2,3,Jasmine,I worked on my implementation for suggested moves,I plan to continue making necessary changes to avoid any bugs. I will work on the presentation and the other required components (sprint2.md and SR2.md and etc.),By the presentation date, None at the moment
+Dec-04,2,3,Prajwol,I finished implementing a working version of torunament_mode, Fixing bugs in tournament mode and any other user storie or features I implemented and get started on making the presentation for monday, By Dec-05 Sunday, None atm
+Dec-05,2,3,Arushi,I finsihed debugging my observable pattern audio,Just finishing sprintmd and making sure the rest of our parts are done,tommorrow,No

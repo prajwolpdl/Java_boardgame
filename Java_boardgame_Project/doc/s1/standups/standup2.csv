@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov-25,1,2,Osama,Since the last standup I have created my layout such as files & classes and organized them,I plan on finishing up my implementation by the final standup,hopefully by the 28th Nov, No all the files that I needed are available
+Nov-25,1,2,Jasmine,I have made all classes and files according to my UML diagram,I will complete the implementation for these classes,approx. 2-3 days (by Nov-27 or 28),none at the moment
+Nov-25,1,2,Arushi,Implemented Observer and Observable classes and AudioControl and Cell classes have respective features,Would like to make my code error free,Nov 26,None
+Nov-25,1,2,Prajwol,Implemented View class which is the UI for our program and partly finished implementing command pattern for run and undo features ,I will complete the implementation of command pattern for the partly finished run and undo features and start working on the prototype pattern for our tournament mode feature,In 2 days, None at the moment

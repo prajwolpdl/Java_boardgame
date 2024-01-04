@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV 1.1,Prajwol,Osama,https://github.com/UTMCSC207/assignment3-team-redpanda/pull/4,"Code looked fine, format was correct along with name conventions, did not notice any concerning elements"
+DEV 1.7,Jasmine,Arushi, https://github.com/UTMCSC207/assignment3-team-redpanda/pull/11, "creates a new boardfile successfully- works as needed. Users must input a file name, and board saves as that file"
+DEV 1.8 - Restart Feature,Osama,Jasmine,https://github.com/UTMCSC207/assignment3-team-redpanda/pull/10, Feature works as it should. Board returns to original state when restart button is pressed. No issues.
+DEV 1.2, Arushi, Prajwol, https://github.com/UTMCSC207/assignment3-team-redpanda/pull/12, The success label in the UI updates correctly with success or fail depending on if the move runs. no issues atm.
